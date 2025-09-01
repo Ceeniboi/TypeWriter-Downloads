@@ -1,6 +1,6 @@
 # TypeWriter
 
-**TypeWriter v1.0** – A small Windows tool that simulates human typing from your clipboard, with start/stop hotkeys and per-device activation.
+**TypeWriter v1.0** – A small Windows tool that simulates human typing from your clipboard, with per-device activation.
 
 ---
 
@@ -13,10 +13,11 @@ Unzip it, then run `TypeWriter.exe`.
 
 ## Hotkeys
 
-- **Start**: Ctrl + Alt + S  
-- **Stop**:  Ctrl + Alt + Q  
-- **Quit**:  Ctrl + Alt + X  
-- **Emergency abort**: Move mouse to top-left corner of the screen
+- **Start**: Ctrl + Alt + Q  
+- **Quit**:  Ctrl + Alt + A  
+- **Emergency abort (while typing)**: Move mouse to the **top-left corner** of the screen  
+
+*(There is no manual Stop hotkey — the emergency abort is the only way to interrupt typing mid-flow.)*
 
 ---
 
